@@ -67,6 +67,10 @@ bash <(wget -qO- --no-check-certificate https://gitlab.com/spiritysdx/Oracle-ser
 
 如若不希望一键的，希望自定义设置时间的，请查看[README_CRON.md](https://gitlab.com/spiritysdx/Oracle-server-keep-alive-script/-/blob/main/%20README_CRON.md)自行设置定时任务
 
+### 💡 赞助声明
+本项目由 VTEXS 的「开源项目免费 VPS 计划」提供算力支持。
+感谢 VTEXS 对开源社区的支持！
+
 ### 友链
 
 VPS融合怪测评项目
